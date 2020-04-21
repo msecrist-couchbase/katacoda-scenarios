@@ -22,7 +22,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "showdashboard": true,
+    "uilayout": "editor-terminal",
+    "dashboards": [ {"name": "Couchbase Admin console", "port": 8091} ]
   },
   "backend": {
     "imageid": "ubuntu"
