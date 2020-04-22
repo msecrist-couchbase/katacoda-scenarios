@@ -15,7 +15,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
       "courseData": "fetchLabs.sh",
       "code": "launchCouchbase.sh"
     },
